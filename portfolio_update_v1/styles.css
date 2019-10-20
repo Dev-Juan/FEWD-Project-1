@@ -132,6 +132,11 @@ ul.skills {
   background: darkorchid;
 }
 
+.truck {
+  max-width: 100%;
+  height: auto;
+}
+
 footer {
   width: 100%;
   min-height: 30px;
